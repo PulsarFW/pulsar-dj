@@ -1,6 +1,6 @@
 name "DJBooth"
 author "katahtonic"
-version "1.0.0"
+version "1.0.1"
 description 'DJBooth Edit By Katahtonic'
 fx_version "cerulean"
 game "gta5"
